@@ -1,6 +1,6 @@
 # AMSI-Bypass
 
-![AMSI Bypass](YOUR_IMAGE_LINK_HERE)
+![AMSI Bypass](https://github.com/keyuraghao/AMSI-Bypass/blob/main/POC.png)
 
 In cybersecurity, bypassing AMSI (Anti-Malware Scan Interface) is highly critical, especially in red team operations where simulating real-world attacks helps organizations test their defenses. AMSI is designed to enhance the detection of malicious scripts and activities by antivirus and other security products. By bypassing AMSI, attackers can evade detection and execute malicious code without triggering alarms.
 
